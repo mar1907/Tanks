@@ -1,0 +1,20 @@
+1 0 0 0 0 0 0 0 0 0 0
+0 0 5 5 5 5 5 5 5 0 0
+0 0 5 5 5 5 5 5 5 0 0
+0 0 5 5 5 5 5 5 5 0 0
+0 0 0 0 0 0 0 0 0 0 2
+1 1 100 55 5 5 75 50 25
+e
+5 11 100 55 5 5 75 50 25
+v
+
+Primele ore ale unei zile de mare importanta. El-Alamein. Intre frontul britanic si cel nemtesc se intinde 'Zona nimanui', o intindere
+de desert nisipos, presarat cu dune imense, de netrecut pentru greoaiele tancuri care s-ar scufunda in nisip si imposibil de
+tras peste ele. In acest teren neprielnic urmeaza sa se petreaca o lupta care va stabil soarta celui de-al doilea razboi 
+mondial... Cele doua parti trimit in recunoastere o serie de tancuri. Dinspre est, britanicii trimit un tanc nou care   
+urmeaza sa faca istorie: M4 Sherman. Noi introduse pe front printr-o livrare de urgenta, aceste tancuri americane nu si-au dovedit 
+utilitatea inca. Dinspre vest, faimosul Panzer IV nemtesc nu mai e chiar nou, dar inca poate face multe minuni impotriva tancurilor
+aliate. Desi fara o importanta aparenta, aceasta intlnire a doua tancuri poate schimba soarta luptei. Fiecare a vazut asezarea
+inamicilor, fiecare poate duce informatii vitale aliatilor. Niciunul nu poate da inapoi. Primul schimb de focuri al luptei
+se anunta fulminant. Pe langa dunele de nisip se pot trage lovituri neasteptate. Cine va castiga?
+Sa inceapa lupta!

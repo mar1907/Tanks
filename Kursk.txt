@@ -1,0 +1,18 @@
+1 0 0 0 0 0 0 0 0 0 0
+0 3 0 3 0 3 0 4 0 4 0
+0 0 0 0 0 0 0 0 0 0 0
+0 3 0 3 0 4 0 4 0 4 0
+0 0 0 0 0 0 0 0 0 0 2
+1 1 100 55 5 5 75 50 25
+e
+5 11 100 55 5 5 75 50 25
+v
+Doua ore dupa batalia de la Kursk... Distrugere. Foc. Doua tancuri in retragere se intalnesc intr-un veritabil cimitir.
+Venind dinspre vest un tanc rusesc model T-34, faimos pentru costul scazut de productie si eficienta surprinzatoare, se 
+retrage dupa ce s-a pierdut de restul companiei, fara posibilitatea de a comunica cu celelalte tancuri datorita unei mici defectiuni tehnice.
+Dinspre est, un invechit Panzer IV al armatei germane a supravietuit bataliei surprinzator de usor, iar acum incearca sa se
+regrupeze cu alti supravietuitori. Desi e un model mai vechi, tancul are sanse rezonabile impotriva celui rusesc, fiind 
+de calitete superioara, germana. Intre cele doua masini de razboi se gaseste doar un camp al mortii, un loc in care lupta
+a fost mai apriga, fiind impanzit cu tancuri distruse...
+Cine va trai sa mai vada o zi? Cine va mai ajunge inapoi la camarazi?
+Ramane de vazut... sa inceapa lupta!

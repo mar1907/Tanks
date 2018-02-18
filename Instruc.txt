@@ -1,0 +1,14 @@
+Tancuri e un joc pentru doi jucatori. Infrunta tancul oponentului si distruge-l fara se patesti si tu acelasi lucru!  
+Pentru a face asta va trebui sa te deplasezi intr-o pozitie care sa iti permita sa tragi. Daca ai noroc, s-ar putea sa il
+surprinzi cu o lovitura pe diagonala, daca nivelul permite. Totusi ai grija sa nu ajungi intr-o pozitie dezavantajoasa, 
+care sa ii permita lui sa te nimereasca pe lateral sau in spate, sansele fiind mai mari in astfel de cazuri sa-ti scada viata...
+Jocul se desfasoara pe tura, iar in fiecare tura ai un numar limitat de puncte de miscare. Acestea le poti folosi pentru
+a te misca, pentru a te roti sau pentru a ataca. Atentie! Daca ataci, tura ta se termina in acel moment. Planifica-ti cu atentie miscarile!
+Foloseste sagetile directionale pentru a te misca sau pentru a te roti, iar pentru a trage foloseste tasta SPACE. Navigarea
+in meniuri se face cu numerele de la 1-9, iar in meniul 'Setari' alege preferintele tale cu tastele 'd' sau 'n'.
+Puterea unei lovituri se calculeaza in functie de puterea de atac a tancului si de distanta dintre cele doua tancuri. La
+acestea se adauga si un mic element surpriza. Tancruile au si armura, iar aceasta poate face o lovitura sa ricoseze. Nu te
+speria asadar daca lovitura ta a fost fara efect, luand 0 din punctele de viata ale adversarului. Inseamna doar ca ai avut ghinion 
+si lovitura ta a ricosat. Cele trei tipuri de armura sunt: buna (simbolizata cu verde, 75% sanse de ricosare), medie (galben, 50%) si
+slaba (rosu, 25%). Tipurile de armura, puterea tancurilor, punctele de miscare si viata se gasesc afisate pe ecran sub harta. 
+Mult succes la lupta!
